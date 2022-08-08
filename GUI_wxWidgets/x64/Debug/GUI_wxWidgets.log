@@ -1,0 +1,6 @@
+﻿  cApp.cpp
+  cCanvas.cpp
+  cEditorFrame.cpp
+  cMain.cpp
+C:\Users\Josiah\Desktop\Coding\wxWidgets-Paint\Paint\GUI_wxWidgets\cMain.cpp(35,26): error C2065: 'palette': undeclared identifier
+  Generating Code...
